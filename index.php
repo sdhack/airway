@@ -2,7 +2,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT
+ * APPLICATION ENVIRONMENT BY:SDHACK
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
@@ -48,7 +48,7 @@ if (defined('ENVIRONMENT'))
 
 /*
  *---------------------------------------------------------------
- * SYSTEM FOLDER NAME
+ * SYSTEM FOLDER NAME BY:SDHACK
  *---------------------------------------------------------------
  *
  * This variable must contain the name of your "system" folder.
@@ -76,7 +76,7 @@ if (defined('ENVIRONMENT'))
 
 /*
  * --------------------------------------------------------------------
- * DEFAULT CONTROLLER
+ * DEFAULT CONTROLLER BY:SDHACK
  * --------------------------------------------------------------------
  *
  * Normally you will set your default controller in the routes.php file.
